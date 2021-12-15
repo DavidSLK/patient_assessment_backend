@@ -1,0 +1,20 @@
+{
+  "type": "mysql",
+  "host": "db-patient-assessment.cte2okqrddoa.us-east-1.rds.amazonaws.com",
+  "port": 3306,
+  "username": "root",
+  "password": "DknGD%7GL8Nr",
+  "database": "db_patient_assessment",
+  "logging": false,
+  "synchronize": true,
+  "entities": [
+     "./src/app/entities/*.ts",
+     "./dist/app/entities/*.js"
+  ],
+  "migrations": [
+     "./src/database/migrations/*.ts"
+  ],
+  "cli": {
+     "migrationsDir": "./src/database/migrations"
+  }
+}
