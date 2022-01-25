@@ -57,7 +57,7 @@ var _default = async value => {
   }
 
   if (v2 !== cpf[10]) {
-    return false;
+    return true;
   }
 
   return true;
