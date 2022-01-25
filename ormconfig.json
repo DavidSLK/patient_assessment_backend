@@ -1,9 +1,9 @@
 {
   "type": "mysql",
-  "host": "db-patient-assessment.cte2okqrddoa.us-east-1.rds.amazonaws.com",
+  "host": "db-imdlh.cj1q03tiebjt.us-east-2.rds.amazonaws.com",
   "port": 3306,
-  "username": "root",
-  "password": "DknGD%7GL8Nr",
+  "username": "imdlh",
+  "password": "imdlh_1337",
   "database": "db_patient_assessment",
   "logging": false,
   "synchronize": true,
