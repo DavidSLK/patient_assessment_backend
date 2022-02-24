@@ -1,10 +1,10 @@
 {
   "type": "mysql",
-  "host": "92.249.44.156",
+  "host": "sql10.freemysqlhosting.net",
   "port": 3306,
-  "username": "u535054495_vvv",
-  "password": "tU#fHWyyB0!D",
-  "database": "u535054495_aaa",
+  "username": "sql10475097",
+  "password": "YwRkF7zNXG",
+  "database": "sql10475097",
   "logging": false,
   "synchronize": false,
   "entities": [
