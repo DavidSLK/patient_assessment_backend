@@ -1,12 +1,12 @@
 {
   "type": "mysql",
-  "host": "db-imdlh.cj1q03tiebjt.us-east-2.rds.amazonaws.com",
+  "host": "92.249.44.156",
   "port": 3306,
-  "username": "imdlh",
-  "password": "imdlh_1337",
-  "database": "db_patient_assessment",
+  "username": "u535054495_vvv",
+  "password": "tU#fHWyyB0!D",
+  "database": "u535054495_aaa",
   "logging": false,
-  "synchronize": true,
+  "synchronize": false,
   "entities": [
      "./src/app/entities/*.ts",
      "./dist/app/entities/*.js"
