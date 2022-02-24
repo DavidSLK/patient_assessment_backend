@@ -2,9 +2,9 @@
   "type": "mysql",
   "host": "sql356.main-hosting.eu",
   "port": 3306,
-  "username": "	u535054495_oziris ",
+  "username": "	u535054495_oziris",
   "password": "DAV@@id513",
-  "database": "u535054495_tor ",
+  "database": "u535054495_tor",
   "logging": false,
   "synchronize": true,
   "entities": [
