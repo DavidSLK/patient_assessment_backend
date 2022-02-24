@@ -1,10 +1,10 @@
 {
   "type": "mysql",
-  "host": "db-imdlh.cj1q03tiebjt.us-east-2.rds.amazonaws.com",
+  "host": "sql356.main-hosting.eu",
   "port": 3306,
-  "username": "imdlh",
-  "password": "imdlh_1337",
-  "database": "db_patient_assessment",
+  "username": "	u535054495_oziris ",
+  "password": "DAV@@id513",
+  "database": "u535054495_tor ",
   "logging": false,
   "synchronize": true,
   "entities": [
