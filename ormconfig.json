@@ -1,5 +1,5 @@
 {
-  "type": "mysql",
+  "type": "MariaDB",
   "host": "92.249.44.156",
   "port": 3306,
   "username": "u535054495_oziris",
